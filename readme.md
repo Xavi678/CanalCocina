@@ -1,0 +1,2 @@
+-La funció del programa es retornar tota la programació en forma d'html del canal cuina del dia que has seleccionat.
+- Primer li has de donar una data d'un dia, i llavors el programa va agafant en una llista la informació de tots els prgrames que estan disponibles en aquella pàgina web pel dia que li has indicat
