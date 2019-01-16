@@ -4,4 +4,4 @@
   -Quan t'hagis baixa't el programa hauràs de crear una aplicació de consola i copiar les diferentes classes.
   
  #### Funcionament
-  -Crea un main, per poder executar l'aplicació, instancia el CanalCocina, i fes servir el mètode Get() (torna una llista de la classe Program).
+  -Crea un main, per poder executar l'aplicació, instancia el CanalCocina, i fes servir el mètode Get() (torna una llista de la classe Program), al get li hauràs de passar un Date, perquè ell pugui agafar el dia.
