@@ -1,2 +1,7 @@
--La funciÛ del programa es retornar tota la programaciÛ en forma d'html del canal cuina del dia que has seleccionat.
-- Primer li has de donar una data d'un dia, i llavors el programa va agafant en una llista la informaciÛ de tots els prgrames que estan disponibles en aquella p‡gina web pel dia que li has indicat
+## Canal Cocina
+
+  -Aquest programa et servir√† per buscar tots els programes que s'han em√®s per un dia indicat.
+  -Quan t'hagis baixa't el programa haur√†s de crear una aplicaci√≥ de consola i copiar les diferentes classes.
+  
+ #### Funcionament
+  -Crea un main, per poder executar l'aplicaci√≥, instancia el CanalCocina, i fes servir el m√®tode Get() (torna una llista de la classe Program).
